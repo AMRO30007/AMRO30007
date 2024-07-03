@@ -1,0 +1,4 @@
+- 👋 Hi, I’m AMRO
+- 👀 I am a developer
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on github community
